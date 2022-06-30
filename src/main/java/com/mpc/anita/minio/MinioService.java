@@ -89,7 +89,6 @@ public class MinioService {
      * @author mapengcheng
      * @Description("download file(objectName) from minio, and save as a file(fileName)")
      * @Date 6/29/2022 5:00 PM
-     * @param bucketName minio bucket name
      * @param objectName minio file name
      * @param fileName  download file as fileName
      * @return void
