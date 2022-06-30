@@ -1,0 +1,9 @@
+minio:
+  endpoint: http://mpc720.games:7101
+  accessKey: anita
+  secretKey: FiJhbs7~U8s7f-x
+  partSize: 104857600
+  bucketName: data
+
+person:
+  last-name: anita720
